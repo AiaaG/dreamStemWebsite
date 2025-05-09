@@ -154,6 +154,7 @@ const Home = () => {
           </motion.div>
         </div>
       </AnimatedSection>
+      <img src= "https://www.unicef.org/kyrgyzstan/sites/unicef.org.kyrgyzstan/files/styles/press_release_feature/public/USD20250307_DSC3375.webp?itok=b0l-nrgG">
 
       {/* Roadmap Section */}
       <section className="py-16 md:py-24 bg-gray-50">
